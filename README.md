@@ -14,7 +14,8 @@ Have to be logged into the Admin console then find the install_hpfeeds.sh
   6. sudo nano install_hpfeeds.sh
       To change github repositories to pip install -e git+https://github.com/couozu/pyev.git#egg=pyev
                                 and    pip install -e git+https://github.com/threatstream/evnet.git#egg=evnet-dev
- #### This is to get data from the correct github since the one given in codebath didn't work so it would not proceed with the install.sh command in Milestone 2.
+ #### This is to get data from the correct github since the one given in codebath didn't work so it would not proceed with the install.sh command in Milestone 2. 
+ Source used to change the directory came from https://github.com/threatstream/mhn/issues/560
  
  ####The total number of attacks that happened totalled to 2,268
  2,204 attakcs from Canada
